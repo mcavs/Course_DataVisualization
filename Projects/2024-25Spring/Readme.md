@@ -8,7 +8,7 @@
 
 ## Teknolojinin Gizli Kahramanları Nadir Toprak Elementleri - Diyar YILDIZ
 
-<img src="http://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/di%CC%87yaryildiz_148715_899264_VG-POSTER%20DI%CC%87YAR%20YILDIZ-1.png" width="800">
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/di%CC%87yaryildiz_148715_899264_VG-POSTER%20DI%CC%87YAR%20YILDIZ-1.png" width="800">
 
 ---
 
