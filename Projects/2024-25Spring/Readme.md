@@ -1,10 +1,8 @@
 # Posterler
-Projelerin kaynak kodları ve verisetleri için başlıklarına tıklayarak repository'sine göz atabilirsiniz.
 
+## Türkiye'de İklim Değişikliği: Çevre Koruma Harcamaları Yeterli mi? - Beyza Arslan 
 
-## [Dil Konuşma Bozukluğu ve Kekemelik](https://github.com/Yigitcanyardimci/Dil-Konusma-Bozuklugu) - Yiğitcan YARDIMCI ([@Yigitcanyardimci](https://github.com/Yigitcanyardimci)) 
-
-<img src="https://github.com/mcavs/ESTUStat_2023Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/Yig%CC%86itcanYard%C4%B1mc%C4%B1.png" width="800">
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/beyzaarslan_148084_895750_VG_Poster_Beyza_Arslan_19457218074.pdf" width="800">
 
 ---
 
