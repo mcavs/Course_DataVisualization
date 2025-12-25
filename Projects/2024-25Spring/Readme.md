@@ -42,5 +42,54 @@
 
 ---
 
+## Visualization Public Perception and Usage of Cookware and Food Storage Materials - Muhammet Ali ÇAKIR
 
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/muhammetali%CC%87c%CC%A7akir_148713_894333_M.%20Ali%20C%CC%A7AKIR%20Veri%20go%CC%88rselles%CC%A7tirme%20o%CC%88dev-1.png" width="800">
 
+---
+
+## İntihar: Coğrafya ve Kültür Kader Mi? - Murat GÜLGÖR
+
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/muhammetali%CC%87c%CC%A7akir_148713_894333_M.%20Ali%20C%CC%A7AKIR%20Veri%20go%CC%88rselles%CC%A7tirme%20o%CC%88dev-1.png" width="800">
+
+---
+
+## Türkiye'nin Mutluluk Durumu - Murat ÖZKAN
+
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/murato%CC%88zkan_148379_901968_MuratOzkan_VeriGorsellestirme_FinalOdevi_Poster_TRninMutlulukDurumu-1.png" width="800">
+
+---
+
+## Sağlıklı Beslenme ve Beden Eğitimi Tutumlarının Cinsiyet Faktörüne Göre İstatistiksel Görselleştirmeyle İncelenmesi - Recep CEVHAN
+
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/recepcevhan_148357_893082_VG%20Final%20O%CC%88devi%20-%20Recep%20CEVHAN%2015.05.2025-1.png" width="800">
+
+---
+
+## Küresel Orman Kaybı (2001-2023) - Tuğçe ÜLGER GÖKDUMAN
+
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/tug%CC%86c%CC%A7eu%CC%88lgergo%CC%88kduman_97835_901439_KU%CC%88RESEL%20ORMAN%20KAYBI%20-%20Tug%CC%86c%CC%A7e%20U%CC%88lger%20Go%CC%88kduman-1.png" width="800">
+
+---
+
+## Küresel Su Kullanımına Bir Bakış - Yiğit TAŞLIOĞLU
+
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/yi%CC%87g%CC%86i%CC%87ttas%CC%A7liog%CC%86lu_148639_901513_Yig%CC%86it%20Tas%CC%A7l%C4%B1og%CC%86lu%20Veri%20Go%CC%88rselles%CC%A7tirme%20Final%20O%CC%88devi-1.png" width="800">
+
+---
+
+## Otomasyon Teknolojilerinin İşgücüne Olan Etkisi - Berkay GINABAŞ
+
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/berkayginabas%CC%A7_148843_893065_Poster%20C%CC%A7al%C4%B1s%CC%A7mas%C4%B1_page-0001.jpg" width="800">
+
+---
+
+## Dünya Nüfusunun Görsel Analizi - Ataberk ÖZYILMAZ
+
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/ataberko%CC%88zyilmaz_148710_901125_finalposter-ataberk-ozyilmaz_page-0001.jpg" width="800">
+
+---
+
+## Türkiye'de İnternet Kullanımı Eğilimlerinin İncelenmesi: 2019-2024 - Ali İhsan ALBAYRAK
+
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2024-25Spring/ali%CC%87i%CC%87hsanalbayrak_148741_902118_Ali-ihsan-Albayrak-Final-Projesi-Poster-Son_page-0001.jpg" width="800">
