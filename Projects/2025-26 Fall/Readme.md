@@ -28,6 +28,12 @@
 
 ---
 
+## [Analyzing the Effect of Daily Habits on the Happiness Index](https://github.com/batuhandenizli/factors-affecting-happiness-index) - Batuhan DENİZLİ
+
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2025-26%20Fall/Batuhan%20DENI%CC%87ZLI%CC%87.png" width="800">
+
+---
+
 ## [Hollywood Loves WoMEN...Right?](https://github.com/mhozer/dataviz-bechdel-test-analysis) - Miray HOZER
 
 <img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2025-26%20Fall/Miray%20HOZER.png" width="800">
