@@ -10,6 +10,12 @@
 
 ---
 
+## [Forest Fire Analysis in Türkiye (2000-2024)](https://github.com/ardaerenyilmaz/Forest-Fires-Turkey-Analysis) - Arda Eren YILMAZ
+
+<img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2025-26%20Fall/Arda%20Eren%20YILMAZ.png" width="800">
+
+---
+
 ## [Productivity of Turkish Theatre in the 2023/2024 Season](https://github.com/sema190304/Project.git) - Sema TAY
 
 <img src="https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/2025-26%20Fall/Sema%20TAY.png" width="800">
