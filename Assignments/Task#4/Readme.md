@@ -28,7 +28,6 @@ Save your final plot as a .png file using `ggsave()`:
 
 ```r
 ggsave("firstname_lastname_task.png", width = 8, height = 6, dpi = 300)
-Name your plot file: firstname_lastname_task.png
 ```
 
 Commit both your .png file to your working branch.
